@@ -7,7 +7,7 @@
       <h3>💻 Sleeper Developer - j4f</h3>
     </td>
     <td valign="middle" align="center">
-      <img src="https://media.giphy.com/media/MuCF8yZPwSasj4SJJv/giphy.gif](https://i.pinimg.com/736x/81/70/ba/8170ba2ae8c0ccf4af58d445f407a20f.jpg" width="130" alt="Pixel Art" />
+      <img src="https://i.pinimg.com/736x/81/70/ba/8170ba2ae8c0ccf4af58d445f407a20f.jpg" width="130" alt="Pixel Art" />
     </td>
   </tr>
 </table>
