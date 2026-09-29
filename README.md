@@ -74,4 +74,14 @@
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/AnemosLibertas/AnemosLibertas/snake-output/snake.svg" alt="Snake animation" />
 
-###
+<br>
+
+<div align="center">
+  <h3>♟️ My hobby ♟️</h3>
+  <!-- Thay link bên dưới bằng link GIF bạn vừa copy, điều chỉnh width để ảnh to/nhỏ theo ý muốn -->
+  <img src="https://www.chess.com/game/live/173564862654?username=giolibertas" width="400" alt="My Best Chess Game" />
+  <br>
+  <i>"Chess? nahhh it's so easy."</i>
+</div>
+
+<br>
