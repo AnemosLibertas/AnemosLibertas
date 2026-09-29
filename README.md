@@ -50,7 +50,6 @@
 ###
 
 <h2>Look and know</h2>
-<br clear="both">
 
 <div data-importer="stats" align="left">
   <img src="https://streak-stats.demolab.com?user=AnemosLibertas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
