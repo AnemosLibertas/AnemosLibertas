@@ -79,7 +79,7 @@
 <div align="center">
   <h3>♟️ My hobby ♟️</h3>
   <!-- Thay link bên dưới bằng link GIF bạn vừa copy, điều chỉnh width để ảnh to/nhỏ theo ý muốn -->
-  <img src="/AnemosLibertas/.github/workflows/board.gif" width="400" alt="My Best Chess Game" />
+  <img src=".github/workflows/board.gif" width="400" alt="My Best Chess Game" />
   <br>
   <i>"Chess? nahhh it's so easy."</i>
 </div>
