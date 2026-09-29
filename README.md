@@ -15,6 +15,7 @@
 <hr>
 
 <h2>Self-understanding</>
+<br>
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -45,6 +46,7 @@
 
 ###
 
+<h2>Look and know</h2>
 <br clear="both">
 
 <div data-importer="stats" align="left">
