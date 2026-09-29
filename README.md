@@ -1,6 +1,4 @@
-<img data-importer="image" align="right" height="200" src="https://i.pinimg.com/736x/81/70/ba/8170ba2ae8c0ccf4af58d445f407a20f.jpg"  />
 
-###
 
 <table align="center">
   <tr>
@@ -9,11 +7,10 @@
       <h3>💻 Sleeper Developer - j4f</h3>
     </td>
     <td valign="middle" align="center">
-      <img src="https://media.giphy.com/media/MuCF8yZPwSasj4SJJv/giphy.gif" width="130" alt="Pixel Art" />
+      <img src="https://media.giphy.com/media/MuCF8yZPwSasj4SJJv/giphy.gif](https://i.pinimg.com/736x/81/70/ba/8170ba2ae8c0ccf4af58d445f407a20f.jpg" width="130" alt="Pixel Art" />
     </td>
   </tr>
 </table>
-###
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
