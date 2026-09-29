@@ -57,10 +57,10 @@
   <a href="https://www.instagram.com/wind26_nii/">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a>
+  <a href="https://www.linkedin.com/in/gia-phong-nguy%E1%BB%85n-b%C3%A1-917a803a5/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a>
+  <a href="https://www.facebook.com/profile.php?id=61560806217758">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
   <a>
