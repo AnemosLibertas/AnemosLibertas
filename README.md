@@ -44,7 +44,6 @@
 </div>
 
 <br>
-###
 
 <h2>Look and know</h2>
 
@@ -52,7 +51,7 @@
   <img src="https://streak-stats.demolab.com?user=AnemosLibertas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
+
 
 <div data-importer="socials" align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -64,8 +63,6 @@
 ###
 
 <h2>I don't know what it means, but it looks pretty funny.</h2>
-<hr>
-<br clear="both">
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/AnemosLibertas/AnemosLibertas/snake-output/snake.svg" alt="Snake animation" />
 
