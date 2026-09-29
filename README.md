@@ -2,8 +2,17 @@
   <img align="right" height="200" src="https://i.pinimg.com/736x/81/70/ba/8170ba2ae8c0ccf4af58d445f407a20f.jpg" alt="Spider-Man" />
 </a>
 
-### Hi 👋! My name is Anemos
-**Sleeper Developer 👨‍💻**
+<table align="center">
+  <tr>
+    <td valign="middle" align="left">
+      <h1>Hi 👋, I'm Hong Nhien Tran</h1>
+      <h3>💻 Full-stack Developer</h3>
+    </td>
+    <td valign="middle" align="center">
+      <img src="https://media.giphy.com/media/MuCF8yZPwSasj4SJJv/giphy.gif" width="130" alt="Pixel Art" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
