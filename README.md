@@ -43,6 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
+<br>
 ###
 
 <h2>Look and know</h2>
@@ -62,6 +63,8 @@
 
 ###
 
+<h2>I don't know what it means, but it looks pretty funny.</h2>
+<hr>
 <br clear="both">
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/AnemosLibertas/AnemosLibertas/snake-output/snake.svg" alt="Snake animation" />
