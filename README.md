@@ -16,7 +16,7 @@
 
 <h2>Self-understanding</>
 
-<br>
+<br class="both">
 
 
 <div data-importer="techs" align="left">
